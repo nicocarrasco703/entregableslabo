@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Minimo_subseq",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Minimo_subseq::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Minimo_subseq-Debug-b4e7fd8bb43d768c734a.json",
+					"name" : "Minimo_subseq",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nicolascarrasco/Desktop/Algoritmos I/Laboratorio/Entregas/5 /Minimo-subseq/cmake-build-debug",
+		"source" : "/Users/nicolascarrasco/Desktop/Algoritmos I/Laboratorio/Entregas/5 /Minimo-subseq"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

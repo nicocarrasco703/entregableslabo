@@ -1,0 +1,3 @@
+/Users/nicolascarrasco/Desktop/Algoritmos I/Laboratorio/Entregas/5 /Existe-pico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nicolascarrasco/Desktop/Algoritmos I/Laboratorio/Entregas/5 /Existe-pico/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicolascarrasco/Desktop/Algoritmos I/Laboratorio/Entregas/5 /Existe-pico/cmake-build-debug/CMakeFiles/Existe_pico.dir
