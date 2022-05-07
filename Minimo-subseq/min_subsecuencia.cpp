@@ -9,15 +9,13 @@ int indiceMinSubsec(vector<int> v, int l, int r){
     for(int i = l; i <= r; i++){ //con este ciclo armo la subsecuencia de v desde l hasta r
         u.push_back(v[i]);
     }
-    for(int j = 0; j < u.size(); j++){ //toma el elemento de indice j y luego entra a otro ciclo donde compara u[j] con cada elemento de la subsec.
-        res = 0;
-        for (int k = 0 ; k < u.size() ; k++){
-            if (u[res] > u[k]){
-                res = k;
-            }
+    res = 0;
+    for (int k = 0 ; k < u.size() ; k++){
+        if (u[res] > u[k]){
+            res = k;
         }
     }
-  return res + l;
+    return res + l;
 }
 
 int main() {
